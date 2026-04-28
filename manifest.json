@@ -1,0 +1,23 @@
+{
+    "name": "Língua de Fogo",
+    "short_name": "Brasa",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#fcfcfa",
+    "theme_color": "#e65100",
+    "description": "Cardápio digital Língua de Fogo",
+    "icons": [
+        {
+            "src": "assets/logopwa.png",
+            "sizes": "192x192",
+            "type": "assets/png",
+            "purpose": "any"
+        },
+        {
+            "src": "assets/logo512.png",
+            "sizes": "512x512",
+            "type": "assets/png",
+            "purpose": "any"
+        }
+    ]
+}
