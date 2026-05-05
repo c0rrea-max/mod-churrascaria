@@ -16,7 +16,7 @@
         {
             "src": "assets/logo512.png",
             "sizes": "512x512",
-            "type": "assets/png",
+            "type": "image/png",
             "purpose": "any"
         }
     ]
